@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T16:43:51.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="c7CJbaBrTzlvkiGivcrb" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T16:44:19.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="U_YUZ5QMX0H7YwAFaynE" version="18.0.3" type="github">
   <diagram id="mFj9zT0GLIkyT43YNLqR" name="Page-1">
     <mxGraphModel dx="1893" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="nYJFKBnxiem_B4qsCw1H-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zZi97eyjPiL-NLTRqPr-9" target="4zZi97eyjPiL-NLTRqPr-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4zZi97eyjPiL-NLTRqPr-9" value="Dosen" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="4zZi97eyjPiL-NLTRqPr-9" value="DPL" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zZi97eyjPiL-NLTRqPr-16" value="Pengolahan Nilai KKN" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
